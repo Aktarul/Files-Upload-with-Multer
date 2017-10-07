@@ -1,0 +1,28 @@
+{
+  "name": "files-upload-with-multer",
+  "version": "1.0.0",
+  "description": "file upload using multer middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aktarul/Files-Upload-with-Multer.git"
+  },
+  "author": "Aktarul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aktarul/Files-Upload-with-Multer/issues"
+  },
+  "homepage": "https://github.com/Aktarul/Files-Upload-with-Multer#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "multer": "^1.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.1",
+    "supertest": "^3.0.0"
+  }
+}
